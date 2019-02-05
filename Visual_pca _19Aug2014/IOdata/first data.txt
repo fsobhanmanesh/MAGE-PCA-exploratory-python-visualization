@@ -1,0 +1,2 @@
+probId	gen1,coromosumename1,startCodon1,stopCodon1,direction1	gen2,coromosumename2,startCodon12,stopCodon2,direction2	description
+1234	g11,c11,25,40,true	g22,c22,160,250,false	normalmouse
